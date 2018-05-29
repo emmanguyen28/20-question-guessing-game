@@ -1,3 +1,5 @@
+# 20-questions-guessing-game 
+
 This is the readme file for Emma Nguyen 20-question-guessing-game.
 New Java classes integrated:
 - java.awt.image.BufferedImage: subclass of Image class that describe an Image with an accessible buffer of image data, used to handle and manipulate the image data
