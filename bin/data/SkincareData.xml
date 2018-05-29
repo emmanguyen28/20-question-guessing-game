@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<question text="Is it for nourishing your skin?">
+	<answer useranswer="yes">
+		<question text="Is it for your face?">
+			<answer useranswer="yes">
+				<question text="Is it related to the sun?">
+					<answer useranswer="yes">
+						<thing>FACE SUNSCREEN</thing>
+					</answer>
+					<answer useranswer="no">
+						<question text="Is it related to the mirror of the soul?">
+							<answer useranswer="yes">
+								<thing>EYE CREAM</thing>
+							</answer>
+							<answer useranswer="no">
+								<question text="Is it about the lips?">
+									<answer useranswer="yes">
+										<thing>LIP BALM</thing>
+									</answer>
+									<answer useranswer="no">
+										<question
+											text="Is it something that can make you look a world different?">
+											<answer useranswer="yes">
+												<question text="Can it be made of cotton">
+													<answer useranswer="yes">
+														<thing>SHEET MASK</thing>
+													</answer>
+													<answer useranswer="no">
+														<thing>FACE MASK</thing>
+													</answer>
+												</question>
+											</answer>
+											<answer useranswer="no">
+												<question
+													text="Is it specifically tailored for dealing with time problems?">
+													<answer useranswer="yes">
+														<thing>ANTI-AGING</thing>
+													</answer>
+													<answer useranswer="no">
+														<question
+															text="Is it specifically tailored to address some concern on your face?">
+															<answer useranswer="yes">
+																<thing>FACE SERUM</thing>
+															</answer>
+															<answer useranswer="no">
+																<question text="Are you interested in hydrating your skin?">
+																	<answer useranswer="yes">
+																		<question text="Are you thinking of some oil?">
+																			<answer useranswer="yes">
+																				<thing>FACE OIL</thing>
+																			</answer>
+																			<answer useranswer="no">
+																				<question
+																					text="Does it moisturize your face day and night?">
+																					<answer useranswer="yes">
+																						<thing>MOISTURIZER</thing>
+																					</answer>
+																				</question>
+																			</answer>
+																		</question>
+																	</answer>
+																	<answer useranswer="no">
+																		<question
+																			text="Are you looking for something that is for night use only?">
+																			<answer useranswer="yes">
+																				<thing>NIGHT CREAM</thing>
+																			</answer>
+																		</question>
+																	</answer>
+																</question>
+															</answer>
+														</question>
+													</answer>
+												</question>
+											</answer>
+										</question>
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+				</question>
+			</answer>
+			<answer useranswer="no">
+				<question text="Is it related to body?">
+					<answer useranswer="yes">
+						<thing>BODY SUNSCREEN</thing>
+					</answer>
+				</question>
+			</answer>
+		</question>
+	</answer>
+	<answer useranswer="no">
+		<question text="Is it for cleansing?">
+			<answer useranswer="yes">
+				<question text="Is it tech-related?">
+					<answer useranswer="yes">
+						<question text="Is it for body hair?">
+							<answer useranswer="yes">
+								<thing>HAIR REMOVAL</thing>
+							</answer>
+							<answer useranswer="no">
+								<question text="Is it for face then?">
+									<answer useranswer="yes">
+										<thing>CLEANSING DEVICE</thing>
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+					<answer useranswer="no">
+						<question text="Is it for teeth?">
+							<answer useranswer="yes">
+								<thing>TEETH WHITENING</thing>
+							</answer>
+							<answer useranswer="no">
+								<question text="Is it makeup-related?">
+									<answer useranswer="yes">
+										<thing>MAKEUP REMOVER</thing>
+									</answer>
+									<answer useranswer="no">
+										<question text="You want to get rid of something dead?">
+											<answer useranswer="yes">
+												<thing>EXFOLIATOR</thing>
+											</answer>
+											<answer useranswer="no">
+												<question text="Can it have foam?">
+													<answer useranswer="yes">
+														<thing>FACE WASH</thing>
+													</answer>
+													<answer useranswer="no">
+														<question text="It is usually used with a cotton pad?">
+															<answer useranswer="yes">
+																<thing>TONER</thing>
+															</answer>
+														</question>
+													</answer>
+												</question>
+											</answer>
+										</question>
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+				</question>
+			</answer>
+		</question>
+	</answer>
+</question>
